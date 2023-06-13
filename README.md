@@ -1,4 +1,7 @@
 ### Simple Keylogger 
+<p align="center" margin-top="20">
+  <img width="250" src="./static/anonimus.jpg" alt="Logo">
+</p>
 
 ### About
 This is simply aplication that is listening for keystrokes and save them to file.
